@@ -5,7 +5,7 @@ Tableau public - [Check out my dashboard](https://public.tableau.com/app/profile
 This project, titled E-Commerce Sales and RFM Analysis , is a comprehensive business intelligence study developed for a TATA virtual internship to evaluate global market performance and customer loyalty. Completed in March 2026 , the analysis utilizes a robust technical stack—including Python for data cleaning, BigQuery (SQL) for complex calculations, and Tableau for executive-level visualization—to transform raw transaction data into a strategic growth roadmap.
 
 ## Introduction Video of my Project
-
+https://github.com/user-attachments/assets/3068df14-763c-4e97-8661-4fc347d796f5
 
 
 
